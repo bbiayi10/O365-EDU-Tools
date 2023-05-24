@@ -1,4 +1,4 @@
-sourcedId,orgSourcedIds,givenName,familyName,username,password,role,grade
+sourcedId,orgSourcedIds,givenName,familyName,username,password,role,grade,phone,email,activeDirectoryMatchId
 13001,10001,Ora,Klein,Oklein@classrmtest31.org,P@ssword123,Student,6
 13002,10001,Beulah,McMillan,BMcMillan@classrmtest31.org,P@ssword123,Student,6
 13003,10001,Florence,Stark,FStark@classrmtest31.org,P@ssword123,Student,6
